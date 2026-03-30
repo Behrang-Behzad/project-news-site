@@ -19,4 +19,5 @@ With more time:
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Link to the deployed project:
+https://project-news-site-5dm.pages.dev/
